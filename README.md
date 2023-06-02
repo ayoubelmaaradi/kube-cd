@@ -1,5 +1,5 @@
 # Deploy
-
+   
 Check that you have cloned [signoz/signoz](https://github.com/signoz/signoz)
 and currently are in `signoz/deploy` folder.
 
